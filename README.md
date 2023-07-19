@@ -15,7 +15,7 @@
 ## Hardware Specifications
 ### Motor
 - 12V 300rpm DC Motor X2
-- 12V 200rpm 1:90 Encoder motor X4
+- 12V 1:90 Encoder motor X4
 
 ### Detection
 - Camera : Logitech HD WebCam C270
